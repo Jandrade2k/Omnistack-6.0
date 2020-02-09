@@ -1,3 +1,8 @@
 # Omnistack-6.0
 
-Project omnistack 6.0, is a clone of Dropbox.
+## Projeto Omnistack 6.0 - clone Dropbox
+
+Projeto se feito com:
+
+* [NodeJs](https://nodejs.org/)
+* [React](https://pt-br.reactjs.org/)
